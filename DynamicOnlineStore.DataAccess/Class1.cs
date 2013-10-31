@@ -7,6 +7,6 @@ namespace DynamicOnlineStore.DataAccess
 {
     public class Class1
     {
-        //pol test
+        //pol test 123123
     }
 }
